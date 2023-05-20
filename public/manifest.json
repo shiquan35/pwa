@@ -30,7 +30,7 @@
       "purpose": "maskable"
     }
   ],
-  "start_url": "https://pwa-ten-xi.vercel.app/",
+  "start_url": "https://sqpwa.vercel.app/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
